@@ -1,3 +1,2 @@
 # wordpress
 > wordpress
-up
